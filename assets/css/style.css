@@ -11,11 +11,3 @@
     --highlight-color: #979797; /* gray */
     --highlight-color-light: #c8c8c8; /* light gray */
 }
-
-h1 {
-    font-family: var(--primary-font);
-}
-
-p {
-    font-family: var(--secondary-font);
-}
