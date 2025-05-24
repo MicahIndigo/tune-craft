@@ -1,3 +1,10 @@
-body {
-    background-color: red;
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Baumans&family=Caveat:wght@400..700&display=swap');
+
+h1 {
+    font-family: 'Baumans', cursive;
+}
+
+p {
+    font-family: 'Caveat', cursive;
 }
