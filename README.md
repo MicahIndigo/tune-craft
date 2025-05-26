@@ -23,3 +23,12 @@ Tune Craft is made by Artists for Artists. We know firsthand the struggles many 
 
 
 3. **Artist Development:** We have different Artist Development packages for our artists on our Artist Development page. Ranging from basic to pro there artists can choose a package that is suitable for their budgets and needs.
+
+
+
+
+
+
+## Credits
+
+Studio favicon from [flaticon.com](linkhttps://www.flaticon.com/free-icon/studio_8839852?term=music+studio&page=1&position=27&origin=tag&related_id=8839852)
