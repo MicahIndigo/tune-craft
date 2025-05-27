@@ -4,6 +4,8 @@
 /* global styles */
 .heading-font {
     font-family: var(--primary-font);
+    text-transform: uppercase;
+
 }
 
 /* CSS variables */
