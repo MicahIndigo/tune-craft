@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description"
@@ -25,7 +28,7 @@
 <body class="d-flex flex-column min-vh-100">
 
   <!-- Navigation -->
-  <nav class="navbar navbar-expand-lg bg-body-tertiary heading-font">
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
       <a class="navbar-brand" href="index.html">
         <h1>Tune Craft</h1>
@@ -59,34 +62,78 @@
             <a class="nav-link" href="#">Artist Development</a>
           </li>
         </ul>
-        <form class="d-flex" role="search">
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-          <button class="btn btn-outline-success" type="submit">Search</button>
-        </form>
-      </div>
     </div>
   </nav>
 
   <!-- Header section -->
   <header class="container mt-4">
     <div class="row">
-      <div class="col-12 col-xl-6">Tune Craft intro section</div>
+      <div class="col-12 col-xl-6">
+        <h2 class="heading-font">About</h2>
+        <br>
+        <p>
+          Tune Craft is made by artists for artists. We know firsthand the struggles many upcoming artists face when it comes to their craft. Whether its finding a space to create your music, the right guidance to develop your artistry, or opportunities to showcase your talent, we are here to help.
+        </p>
+      </div>
     </div>
-    <div class="row mt-4">
-      <div class="col-12 col-xl-6">Images</div>
+    <div class="mt-4">
+      <div class="container">
+        <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="assets/images/home-carousel-photo-1.jpg" class="d-block w-100" alt="Music studio showing vintage and analog gear">
+            </div>
+            <div class="carousel-item">
+              <img src="assets/images/home-carousel-photo-2.jpg" class="d-block w-100" alt="Man in black t-shirt singing on stage">
+            </div>
+            <div class="carousel-item">
+              <img src="assets/images/home-carousel-photo-3.jpg" class="d-block w-100" alt="Crowd enjoying a live music event">
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
     </div>
   </header>
 
   <!-- Main content -->
-  <main class="mt-5">
-    <section class="container mt-5">
-      <div>Book studio</div>
+  <main>
+    <section class="container">
+      <div class="card" style="width: 18rem;">
+        <img src="..." class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Book Studio</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+          <a href="book-studio.html" class="btn btn-primary heading-font">Learn More</a>
+        </div>
+      </div>
     </section>
-    <section class="container mt-5">
-      <div>Events</div>
+    <section class="container">
+      <div class="card" style="width: 18rem;">
+        <img src="..." class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Events</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+          <a href="#" class="btn btn-primary heading-font">Learn More</a>
+        </div>
+      </div>
     </section>
-    <section class="container mt-5">
-      <div>Artist development</div>
+    <section class="container">
+      <div class="card" style="width: 18rem;">
+        <img src="..." class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Artist Development</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+          <a href="#" class="btn btn-primary heading-font">Learn More</a>
+        </div>
+      </div>
     </section>
   </main>
 
@@ -108,7 +155,5 @@
   <!--Font Awesome kit-->
   <script src="https://kit.fontawesome.com/82d7f50bc2.js" crossorigin="anonymous"></script>
 </body>
-
-</html>
 
 </html>

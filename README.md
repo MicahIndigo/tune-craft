@@ -29,6 +29,14 @@ Tune Craft is made by Artists for Artists. We know firsthand the struggles many 
 
 
 
-## Credits
+# Credits
+
+## Media
 
 Studio favicon from [flaticon.com](linkhttps://www.flaticon.com/free-icon/studio_8839852?term=music+studio&page=1&position=27&origin=tag&related_id=8839852)
+
+Photo by <a href="https://unsplash.com/@caught_in_joy?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Caught In Joy</a> on <a href="https://unsplash.com/photos/person-playing-brown-and-white-acoustic-guitars-ptVBlniJi50?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/photos/man-in-black-t-shirt-singing-on-stage-O5TQVuCuLVE"> Sam Moghadam</a> on <a href="https://unsplash.com/@sammoghadam">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/photos/people-enjoying-concert-onuaWc_rF4M"> Dan Gold</a> on <a href="https://unsplash.com/@danielcgold">Unsplash</a>
